@@ -1,0 +1,67 @@
+ul{
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+    overflow: hidden;
+    background-color: gray;
+    position: fixed;
+    top: 0%;
+}
+li{
+    float: left;
+}
+li a{
+    display: block;
+    color:wheat;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+li a:hover:not(.active) {
+    background-color: green;
+}
+  
+li a.active {
+    color: white;
+    background-color: #4CAF50;
+}
+.overall {
+    text-align: center;
+    padding: 20px;
+}
+.title01{
+    color: green;
+    font-family: 'Carter One', cursive;
+    font-size: 250px;
+}
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    background-image: url("/Users/arunleonald/Desktop/ASG1 ID/Image/bg02.jpg");
+    color: white;
+    padding: 20px;
+    outline: groove;
+    outline-color: green;
+    outline-width: thick;
+}
+h2 {
+    font-family: 'Acme', sans-serif;
+    color: wheat;
+}
+.TndF {
+    float: left;
+    width: 50%;
+}
+.Games{
+    float: left;
+    width: 50%;
+}
+.whl{
+    content: "";
+    display: table;
+    clear: both;
+}
+footer{
+    text-align: center;
+    background-color: aliceblue;
+    color: black;
+}

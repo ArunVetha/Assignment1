@@ -1,0 +1,111 @@
+*{
+    box-sizing: border-box;
+}
+ul{
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+    overflow: hidden;
+    background-color: gray;
+    position: fixed;
+    top: 0%;
+}
+li{
+    float: left;
+}
+li a{
+    display: block;
+    color:wheat;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+li a:hover:not(.active) {
+    background-color: green;
+}
+  
+li a.active {
+    color: white;
+    background-color: #4CAF50;
+}
+.overall {
+    text-align: center;
+    padding: 20px;
+}
+.title01{
+    color: green;
+    font-family: 'Carter One', cursive;
+    font-size: 250px;
+}
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    background-image: url("/Users/arunleonald/Desktop/ASG1 ID/Image/bg4.jpg");
+    color: white;
+    padding: 20px;
+    outline: groove;
+    outline-color: green;
+    outline-width: thick;
+}
+.box {
+    border-radius: 5px;
+    background-color:gray;
+    padding: 20px;
+  }
+  
+
+  /* Clear floats after the columns */
+
+  .row:after {
+    content: "";
+    display: table;
+    clear: both;
+  }
+
+  input[type=email] {
+    width: 100%;
+    padding: 6px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    resize: vertical;
+  }
+  input[type=number] {
+    width: 100%;
+    padding: 6px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    resize: vertical;
+  }
+  input[type=text], select, textarea {
+    width: 100%;
+    padding: 6px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    resize: vertical;
+  }
+  
+  input[type=submit] {
+    background-color: #4CAF50;
+    color: white;
+    padding: 12px 20px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    float: left;
+  }
+  
+  input[type=submit]:hover {
+    background-color: #45a049;
+  }
+h1 {
+    font-family: 'Acme', sans-serif;
+    color: wheat;
+}
+.lin{
+    text-align: center;
+}
+
+footer{
+    text-align: center;
+    background-color: aliceblue;
+    color: black;
+}

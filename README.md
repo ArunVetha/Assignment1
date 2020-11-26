@@ -1,1 +1,6 @@
-# Assignment1
+# Personal Portfolio
+# Design Process
+# Features
+# Technology Used
+# Testing
+# Credits

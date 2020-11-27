@@ -1,8 +1,8 @@
 # Personal Portfolio
 
-One or two paragraphs providing an overview of your project. Tell us about your project.
+The overall objective of the website is for the recruiters to better get to know me and get in touch with me fast
 
-Essentially, this part is your sales pitch.
+Here, everyone who visits will get to know about my skills including some vital soft skills. And it will also comprise of some of the projects I've don so far. And it's only a few of the projects I've done so far, not everything. I'll be waiting for you guys to contact me after viewing the site. 
  
 ## Design Process
  

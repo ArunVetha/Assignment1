@@ -36,7 +36,7 @@ li a.active {
 }
 body{
     font-family: Arial, Helvetica, sans-serif;
-    background-image: url("/Users/arunleonald/Desktop/ASG1 ID/Image/bg3.jpg");
+    background-image: url("Image/bg3.jpg");
     color: white;
     padding: 20px;
     outline: groove;
@@ -61,3 +61,17 @@ footer{
     background-color: aliceblue;
     color: black;
 }
+
+/* Compatibility */
+
+    /* Small devices (landscape phones, 576px and up) */
+    @media screen and (max-width: 376px) {
+        .title01{
+          font-size: x-large;}
+      }
+      /* Medium devices (tablets, 768px and up) */
+      @media (min-width: 768px) {
+        .title01{
+        font-size: 218px;
+    }
+   }

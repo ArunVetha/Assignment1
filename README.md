@@ -30,7 +30,8 @@ In addition, you may also use this section to discuss plans for additional featu
 
 ## Technologies Used
 
-In this section, you should mention all of the languages, frameworks, libraries, and any other tools that you have used to construct this project. For each, provide its name, a link to its official site and a short sentence of why it was used.
+- HTML ()
+    - This assignment is highly based on HTML. To be it's a markup language for documents designed for the internet and the browser.
 
 - [JQuery](https://jquery.com)
     - The project uses **JQuery** to simplify DOM manipulation.

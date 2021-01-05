@@ -3,6 +3,8 @@
 The overall objective of the website is for the recruiters to better get to know me and get in touch with me fast
 
 Here, everyone who visits will get to know about my skills including some vital soft skills. And it will also comprise of some of the projects I've don so far. And it's only a few of the projects I've done so far, not everything. I'll be waiting for you guys to contact me after viewing the site. 
+
+Github Page Link - https://arunvetha.github.io/Assignment1/
  
 ## Design Process
  
@@ -65,7 +67,7 @@ I came accross several bugs and careless mistakes from simple missed hyphens to 
 
 
 ## Credits
-A warm thanks to my past lecturers and my friends for group projects.
+A warm thanks to my past lecturers and my friends for group projects that I mentioned.
 
 ### Content
 - The text for all sections are typed by me. 
@@ -74,5 +76,4 @@ A warm thanks to my past lecturers and my friends for group projects.
 - The photos used in this site were obtained from last semester projects and google...
 
 ### Acknowledgements
-
 - I received inspiration for this project from myself, I pushed me harder to complete my assignments.
